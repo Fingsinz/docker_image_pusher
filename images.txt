@@ -1,5 +1,5 @@
 
-nvidia/cuda:12.6.3-cudnn-devel-ubuntu20.04
+nvidia/cuda:11.8.0-cudnn-devel-ubuntu20.04
 #支持指定架构
---platform=linux/amd64
+#--platform=linux/amd64
 

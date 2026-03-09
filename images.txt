@@ -1,5 +1,8 @@
+docker.io/docker/dockerfile:1.7
 
-nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
+docker.io/library/node:22-bookworm
+
+# nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
 #支持指定架构
 #--platform=linux/amd64
 
